@@ -1,0 +1,112 @@
+/* Home.css */
+.carousel {
+    margin-bottom: 20px;
+}
+
+.carousel-image {
+    height: 400px; /* Decrease height of carousel images */
+    object-fit: cover; /* Maintain aspect ratio */
+}
+
+.product-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.product-card {
+    width: calc(20% - 20px); /* Adjust card width for responsiveness */
+    margin: 10px; /* Spacing between cards */
+}
+
+.product-title {
+    color: blue;
+    font-size: 14px; /* Decrease font size */
+}
+
+.product-price {
+    color: red;
+}
+
+
+/* Responsive Styles */
+@media (max-width: 1200px) {
+    .product-card {
+        width: calc(25% - 20px); /* Four cards per row */
+    }
+}
+
+@media (max-width: 768px) {
+    .product-card {
+        width: calc(50% - 20px); /* Two cards per row */
+    }
+}
+
+@media (max-width: 576px) {
+    .product-card {
+        width: calc(100% - 20px); /* One card per row */
+    }
+}
+
+/* Home.css */
+.product-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.product-card {
+    width: calc(25% - 20px); /* Default width for larger screens */
+    margin: 10px; /* Spacing between cards */
+    transition: transform 0.2s; /* Smooth scaling effect on hover */
+}
+
+.product-card:hover {
+    transform: scale(1.05); /* Slightly enlarge card on hover */
+}
+
+.product-image {
+    height: 200px; /* Fixed height for images */
+    object-fit: cover; /* Maintain aspect ratio */
+}
+
+.product-title {
+    color: blue;
+    font-size: 16px; /* Adjust title font size */
+}
+
+.product-price {
+    color: red;
+}
+
+/* Responsive Styles */
+@media (max-width: 1200px) {
+    .product-card {
+        width: calc(33.33% - 20px); /* Three cards per row */
+    }
+}
+
+@media (max-width: 768px) {
+    .product-card {
+        width: calc(50% - 20px); /* Two cards per row */
+        height: auto; /* Allow height to adjust based on content */
+    }
+}
+
+@media (max-width: 576px) {
+    .product-card {
+        width: calc(100% - 20px); /* One card per row */
+        margin-bottom: 15px; /* Additional spacing for mobile view */
+    }
+
+    .product-title {
+        font-size: 14px; /* Smaller title font size for mobile */
+    }
+
+    .product-price {
+        font-size: 14px; /* Smaller price font size for mobile */
+    }
+}
+

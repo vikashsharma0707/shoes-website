@@ -1,0 +1,121 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 2000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 10
+    },
+    {
+      "id": "2",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 10000,
+      "category": "kid",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 25
+    },
+    {
+      "id": "3",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 5000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "no",
+      "discount": 0
+    },
+    {
+      "id": "4",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 8000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 50
+    },
+    {
+      "id": "5",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 9000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "no",
+      "discount": 0
+    },
+    {
+      "id": "6",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 1500,
+      "category": "women",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 75
+    },
+    {
+      "id": "7",
+      "name": "nike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 4000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 80
+    },
+    {
+      "id": "8",
+      "name": "nnike",
+      "discription": "Impact 4 Basketball Shoes",
+      "price": 1000,
+      "category": "men",
+      "images": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/8/k/c/10-dm1124-102-10-nike-white-lt-violet-ore-armory-navy-original-imah2fvgkuzgjhek.jpeg?q=70",
+      "offer": "yes",
+      "discount": 15
+    }
+  ],
+  "account": [
+    {
+      "name": "jay",
+      "userId": "jay123",
+      "email": "jay@12345",
+      "password": "12345",
+      "id": "42ff"
+    },
+    {
+      "name": "ram",
+      "userId": "ram123",
+      "email": "jay@12345",
+      "password": "1288",
+      "id": "7a80"
+    },
+    {
+      "id": "7710",
+      "name": "vikash",
+      "userid": "vikash122",
+      "email": "vikashtiwari9893@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "b807",
+      "name": "java",
+      "userId": "java1234",
+      "email": "java@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "c4e9",
+      "name": "java",
+      "userId": "java1234",
+      "email": "java@gmail.com",
+      "password": "5345"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+/* Topmenu.css */
+.navbar {
+    transition: background-color 0.3s ease;
+}
+
+.navbar:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+#account-dropdown .dropdown-menu {
+    background-color: #f8f9fa; /* Light background for dropdown */
+}
+
+#account-dropdown .dropdown-item:hover {
+    background-color: #e2e6ea; /* Hover effect for dropdown items */
+}
+
+.form-control {
+    width: 200px; /* Adjust width of search input */
+}
+
+.badge {
+    font-size: 0.75rem; /* Smaller badge font size */
+}
